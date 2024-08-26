@@ -1,0 +1,1 @@
+from . import admincha,adminpanel, add_kino, add_admin
